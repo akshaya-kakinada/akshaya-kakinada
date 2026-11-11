@@ -102,3 +102,5 @@ I’m interested in collaborating on AI-powered products, thoughtful full-stack 
   <br/><br/>
   <img src="./assets/footer.svg" width="100%" alt="Keep building what does not exist yet" />
 </div>
+
+<!-- profile-refresh: 2026-11-11 -->
