@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark-flower.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./light-flower.svg">
-  <img src="./dark-flower.svg" alt="Akshaya Kakinada — AI/ML engineering student and full-stack builder" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./dark-ascii-flower.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light-ascii-flower.svg">
+  <img src="./dark-ascii-flower.svg" alt="Akshaya Kakinada — AI/ML engineering student and full-stack builder" width="100%">
 </picture>
 
 <div align="center">
