@@ -1,106 +1,73 @@
-<div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Akshaya Kakinada — AI/ML and full-stack developer" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img src="./dark.svg" alt="Akshaya Kakinada — AI/ML engineering student and full-stack builder" width="100%">
+</picture>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshayakakinada/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-06B6D4?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/akshaya_kakinada79/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Compete-7C3AED?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/kakinada_79)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-06B6D4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akshaya_kakinada/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FF2BD6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshayakakinada/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-9D4EDD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshaya-kakinada)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-22D3EE?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/akshaya_kakinada79/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Compete-FF3CAC?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/kakinada_79)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-9D4EDD?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akshaya_kakinada/)
 
 </div>
 
-## `01. who_am_i`
+## `hello_world`
 
-```python
-class AkshayaKakinada:
-    role = "AI/ML + Full-Stack Developer"
-    education = "CSE (Artificial Intelligence & Machine Learning)"
-    minor = "Marketing"
-    universities = ["SRM University", "INTI International University — Mobility Student"]
-    graduation = 2028
-    mission = "Turn ambitious ideas into useful, human-centered technology."
-```
+I’m **Akshaya**, a Computer Science and Engineering student specializing in **Artificial Intelligence and Machine Learning**, with a **minor in Marketing**. I enjoy building at the intersection of intelligent systems, full-stack products, and user-centered thinking.
 
-I’m a Computer Science and Engineering student specializing in **Artificial Intelligence and Machine Learning**, with a **minor in Marketing**. I like working where intelligent systems, product thinking, and creative interfaces meet—and I’m currently looking for internships where I can learn fast and ship meaningful work.
+- 🧠 Strengthening my AI/ML and natural-language-processing foundations
+- ⚡ Building full-stack applications with modern JavaScript and Python
+- 🧩 Studying algorithms, data structures, and practical problem solving
+- 🌏 Studying at SRM University and currently a mobility student at INTI International University
+- 🎯 Seeking AI/ML, software-engineering, and product-focused internships
 
-- 🧠 Exploring applied AI, NLP, intelligent products, and responsible ML
-- ⚡ Building full-stack experiences with modern JavaScript and Python
-- 🌏 Studying across SRM University and INTI International University
-- 🎯 Open to **AI/ML, software engineering, and product-focused internships**
+## `featured_builds`
 
-## `02. featured_builds`
+| Project | What it does | Stack |
+|---|---|---|
+| [**MirrorTalk**](https://github.com/akshaya-kakinada/Mirrortalk) | Real-time AI-powered conversation alignment platform designed to detect semantic drift. | Next.js · React · TypeScript · Supabase · Tailwind CSS |
+| [**Smart Study Planner**](https://github.com/akshaya-kakinada/Student_Study_Management_System) | Prioritizes study and revision sessions using a greedy algorithm. | C++ · Data Structures · Algorithms |
+| [**Premium Blog Platform**](https://github.com/akshaya-kakinada/FSD_GroupProject_Blogpage) | Full-stack editorial experience with category discovery and administrative workflows. | JavaScript · HTML · Database Integration |
+| [**Suspicious Conversation Analyzer**](https://github.com/akshaya-kakinada/AI-Based-Suspicious-Conversation-Analyzer) | NLP safety concept for identifying scams, manipulation, grooming, and harassment. **In development.** | Python · NLP · Machine Learning |
+| [**StudyAI**](https://github.com/akshaya-kakinada/StudyAI-Smart-AI-Education-Companion-Quiz-Generator) | Smart education companion. **Currently building.** | Work in progress |
 
-<table><tr><td width="50%" valign="top">
+## `engineering_stack`
 
-### 🪞 [MirrorTalk](https://github.com/akshaya-kakinada/Mirrortalk)
-
-Real-time AI-powered conversation alignment platform designed to detect semantic drift and help participants stay meaningfully aligned.
-
-`Next.js` `React` `TypeScript` `Supabase` `Tailwind CSS`
-
-</td><td width="50%" valign="top">
-
-### 🧠 [Suspicious Conversation Analyzer](https://github.com/akshaya-kakinada/AI-Based-Suspicious-Conversation-Analyzer)
-
-An NLP safety concept for detecting scams, manipulation, grooming, and harassment, then surfacing risk levels and actionable guidance.
-
-`NLP` `Machine Learning` `Python` · **In development**
-
-</td></tr><tr><td width="50%" valign="top">
-
-### 📚 [Smart Study Planner](https://github.com/akshaya-kakinada/Student_Study_Management_System)
-
-A C++ planning engine that uses a greedy algorithm to prioritize study and revision sessions by urgency, difficulty, and workload.
-
-`C++` `Greedy Algorithms` `Data Structures`
-
-</td><td width="50%" valign="top">
-
-### ✍️ [Premium Blog Platform](https://github.com/akshaya-kakinada/FSD_GroupProject_Blogpage)
-
-A full-stack editorial experience with category discovery and an admin workflow for creating and editing posts.
-
-`Full Stack` `JavaScript` `HTML` `Database`
-
-</td></tr></table>
-
-> **Currently building:** StudyAI — a smart education companion and quiz generator.
-
-## `03. tech_orbit`
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,nextjs,react,tailwind,mongodb,supabase,git,github,vscode&perline=7&theme=dark" alt="Technology stack" />
-</div>
-
-| Layer | Tools I use |
+| Layer | Technologies |
 |---|---|
-| **AI & data** | Python, machine learning foundations, NLP, data analysis |
-| **Frontend** | JavaScript, HTML, CSS, React, Next.js, Tailwind CSS |
-| **Backend & data** | MongoDB, Supabase, API-driven applications |
-| **Core CS** | C, C++, data structures, algorithms, problem solving |
-| **Product edge** | Marketing, user-centered thinking, communication |
+| **Languages** | Python · C · C++ · JavaScript · TypeScript · HTML · CSS |
+| **AI & data** | Machine-learning foundations · NLP · Data analysis |
+| **Full stack** | React · Next.js · Tailwind CSS · MongoDB · Supabase · API-driven applications |
+| **Computer science** | Data structures · Algorithms · Greedy algorithms |
+| **Tools** | Git · GitHub · VS Code |
+| **Product perspective** | Marketing · User-centered thinking · Communication |
 
-## `04. signal`
+## `education`
+
+- **Computer Science and Engineering** — Artificial Intelligence and Machine Learning specialization
+- **SRM University**
+- **Mobility Student** — INTI International University
+- **Minor:** Marketing
+- **Expected graduation:** 2028
+
+## `github_signal`
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=akshaya-kakinada&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaya-kakinada&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Most used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=akshaya-kakinada&show_icons=true&hide_border=true&bg_color=080311&title_color=FF2BD6&icon_color=22D3EE&text_color=FFF7FC&rank_icon=github" alt="Akshaya's GitHub statistics">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaya-kakinada&layout=compact&hide_border=true&bg_color=080311&title_color=FF2BD6&text_color=FFF7FC" alt="Akshaya's most used GitHub languages">
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=akshaya-kakinada&theme=transparent&hide_border=true&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=akshaya-kakinada&theme=transparent&hide_border=true&ring=FF2BD6&fire=FF3CAC&currStreakLabel=FF2BD6&sideLabels=FFF7FC&dates=9D8C9A" alt="Akshaya's GitHub contribution streak">
 </div>
 
-## `05. next_transmission`
+## `connect`
 
-I’m interested in collaborating on AI-powered products, thoughtful full-stack applications, and projects that solve a real human problem. If you’re building something ambitious—or hiring an intern who brings both technical curiosity and product perspective—let’s connect.
+I’m interested in AI-powered products, thoughtful full-stack applications, and projects that solve real human problems. I’m currently open to internship opportunities and collaborations that offer room to learn, build, and contribute.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/akshayakakinada/"><strong>Start a conversation →</strong></a>
-  <br/><br/>
-  <img src="./assets/footer.svg" width="100%" alt="Keep building what does not exist yet" />
 </div>
-
-<!-- profile-refresh: 2026-11-11 -->
